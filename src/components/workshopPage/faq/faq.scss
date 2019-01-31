@@ -1,0 +1,25 @@
+.faq .rc-collapse-item
+{
+	border:none!important;
+	margin-bottom: 10px!important;
+	border-radius: 8px;
+	background-color: transparent;
+}
+.faq .rc-collapse
+{
+	background-color: transparent;
+	border: none;
+}
+.faq .rc-collapse-content-box p
+{
+	color: black;
+	font-weight: normal;
+}
+.faq .rc-collapse > .rc-collapse-item > .rc-collapse-header
+{
+	display: block;
+}
+.faq i
+{
+	float: right;
+}

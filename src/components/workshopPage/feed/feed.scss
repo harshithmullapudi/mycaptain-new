@@ -1,0 +1,33 @@
+.feedHeading
+{
+	font-size: 23px !important;
+	color: black !important;
+	font-weight: 900 !important;
+}
+.feedHeading.name
+{
+	font-size: 18px !important;
+	color: black !important;
+	font-weight: bold!important;
+	text-align: left!important;
+}
+.feedContent
+{
+	font-size: 14px;
+	color: black;
+	font-weight: normal;
+	text-align: left;
+}
+.nameFeed
+{
+	font-size: 10px;
+	color: black;
+	font-weight: normal;
+	text-align: right;
+}
+.feedImages
+{
+	max-height: 150px;
+	width: 150px;
+	object-fit: cover;
+}

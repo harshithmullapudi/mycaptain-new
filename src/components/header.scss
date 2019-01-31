@@ -1,0 +1,64 @@
+.incubation {
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    color: #495862;
+}
+.IIMB
+{
+  width: 133px;
+  height: 36px;
+  margin-left: 10px;
+}
+.number,.text
+{
+	color: #323c42!important;
+}
+.text
+{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.headerLine
+{
+	border-width: 4px;
+	border-color: #FFC56A;
+	margin-bottom: 0px;
+}
+.Logo
+{
+	width: 181px;
+}
+.NavItem a
+{
+	font-family: 'Montserrat', sans-serif!important;
+	font-size: 14px;
+	color: #23292D!important;
+	padding-right: 2rem!important;
+}
+.NavItem.signup button
+{
+	background-color:#743BE0;
+	border-radius: 20px;
+	color: white; 
+	font-size: 11px;
+	padding: .5rem 1rem;
+	font-weight: bold;
+	margin-right: 1rem;
+}
+.NavItem.signin a
+{
+	background-color:white;
+	border-radius: 20px;
+	border: 1px solid #F58D5B;
+	color: #F58D5B; 
+	font-size: 11px;
+	padding: .5rem 1rem!important;
+	font-weight: bold;
+	margin-right: 1rem;
+}
+.headerNavbar.nav-link:hover
+{
+	border-bottom: none!important;
+}

@@ -1,0 +1,76 @@
+.form
+{
+	padding: 20px;
+	border: 2px solid #eeee;
+    border-radius: 8px;
+}
+.form input, select
+{
+	box-shadow: none!important;
+    background-color: #eee !important;
+    min-height: 41px;
+    border: none;
+}
+.form input::placeholder {
+    font-family: 'Lato', sans-serif;
+
+    font-weight: normal;
+}
+.form h2
+{
+	text-align: center;
+	font-size: 21px!important;
+	color: black;
+	font-weight: 900 !important;
+}
+.enroll
+{
+	    padding: 10px;
+    background-color: #743be0;
+    color: white!important;
+    border-radius: 20px;
+    font-weight: bolder;
+    margin-right: 30px;
+    font-size: 14px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.enroll:hover
+{
+	text-decoration: underline;
+}
+.payingDetails
+{
+	font-weight: normal;
+	font-size: 13px!important;
+}
+.payment
+{
+	margin-top: 50px;
+}
+.cancel
+{
+	margin-top: 10px;
+}
+.choosedOption
+{
+	margin-top: 50px;
+}
+.paymentPaytm
+{
+	cursor: pointer;
+	width: 150px;
+}
+.paymentRazorpay
+{
+	cursor: pointer;
+	width: 190px;
+}
+#postForm
+{
+	display: none;
+}
+.submitButton
+{
+	display: none;
+}

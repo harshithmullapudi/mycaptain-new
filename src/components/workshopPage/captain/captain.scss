@@ -1,0 +1,30 @@
+.captainHeading
+{
+	font-size: 22px !important;
+	color: black !important;
+	font-weight: 900 !important;
+	margin-bottom: 50px!important;
+}
+.captainHeading.name
+{
+	font-size: 18px !important;
+	color: black !important;
+	font-weight: bold!important;
+	margin-bottom: 0!important;
+}
+.captainContent
+{
+	font-size: 14px;
+	color: black;
+	font-weight: normal;
+}
+.captainImages
+{
+	max-height: 170px;
+	width: 170px;
+	object-fit: cover;
+}
+.rowImages
+{
+	margin-bottom: 30px;
+}

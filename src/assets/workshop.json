@@ -1,0 +1,1916 @@
+{
+	"journalismmediastudies": {
+		"name": "JOURNALISM & MEDIA STUDIES",
+		"shortName": "Journalism",
+		"video": "https://www.youtube.com/embed/4TpvgPGT87Q?rel=0",
+		"category": "Creatives & Humanities",
+		"content": "In this 30 day workshop, experience the life of a journalist. Learn how to film a documentary, write like a journalist, create an advertisement, and make a career in the field of media!",
+		"price": 1000,
+		"whattolearn": [
+			"Introduction to Media Studies and Journalism.",
+			"Ethics in Journalism",
+			"Explore the potential of Travel, Sports and Citizen Journalism",
+			"Practical Approach to Photojournalism",
+			"Write a Magazine Article",
+			"Making an Advertising campaign",
+			"Dig into Investigative Journalism",
+			"Careers prospects and opportunities in journalism"
+		],
+		"course": [
+			{
+				"name": "Understanding the real meaning of Journalism: An Overview",
+				"content": ["What is journalism", "Media: And introduction "]
+			},
+			{
+				"name": "Ad Campaigns, Newsrooms and the Influence of Media on the World",
+				"content": [
+					"Can journalism be yellow",
+					" Kinds of journalism in the digital age : Sports, Travel, Investigative etc."
+				]
+			},
+			{
+				"name": "Analyzing Media and the free speech debate",
+				"content": [
+					" Citizen Journalism and Social Media",
+					" How does the Media control the world?",
+					"Media and money"
+				]
+			},
+			{
+				"name": "Learning about news stories and how to get them right",
+				"content": [
+					"Making an ad campaign : An Introduction",
+					" Upholding the Fourth Pillar of Democracy",
+					"Analysing the media!",
+					"The Final Chapter - Writing a News Story"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SHANTAM SAHAI",
+				"content": "Shantam is a  Media and Communication student. Having worked with several media houses- PinkCityPost, NewsGram, and Zee Media he knows exactly what young writers need to work as journalists. He has also worked with Ms. Medha Patkar and NAPM for Narmada Bachao Andolan, and also with the Aam Aadmi Party for Policy Research. His major interest in research is “Constructed Reality”",
+				"image": "Shantam.jpg"
+			},
+			{
+				"name": "AARUSHI NAYYAR",
+				"image": "Aarushi.png",
+				"content": "Aarushi Nayyar has studied Journalism and Mass Communication from Kamala Nehru College, Delhi University. She has interned at various media houses including the Times of India and The Hindu. Having worked as a freelance writer in different capacities for 3 years, she is excited to share her love for writing and passion for journalism with all her mentees. At present, she works as a copywriter at Leo Burnett, Delhi."
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"creativewriting": {
+		"name": "CREATIVE WRITING",
+		"video": "https://www.youtube.com/embed/h_hGBJX24p0?rel=0",
+		"category": "Creatives & Humanities",
+		"content": "Improve upon your writing skills across 6 genres of writing. Work on story-writing, understand how novels and novellas are written and polish your Poetry and Prose in this 30 day Online program!",
+		"price": 1000,
+		"whattolearn": [
+			" Develop your poetry writing skills",
+			"Explore the poetry and lyrics in songs",
+			"In-depth storytelling skills",
+			"Writing for plays, scripts and screenplays",
+			"Understanding Free Verse",
+			"Understanding Novel Writing and Novellas",
+			"Writing in the vernacular"
+		],
+		"course": [
+			{
+				"name": "Discover the Poet in you",
+				"content": [
+					"Introduction: The landscape of poetry today, and how you can contribute to it",
+					"The importance of the written word in the various cultures of poetry",
+					"Why you should write that novel, and 5 tips for when you do",
+					"Storytelling I: How to start your story"
+				]
+			},
+			{
+				"name": "Micro Fiction : Less is more",
+				"content": [
+					"Conquering the free verse",
+					"Novellas, and the art of the in-between",
+					"A peak into the roots of poetry",
+					" The poetry in songs"
+				]
+			},
+			{
+				"name": "Storytelling and Blogging",
+				"content": [
+					"What is your genre?",
+					"Storytelling III: The Three Minute Story Project",
+					"What we can learn from classical women poets",
+					"Storytelling IV: For plays, scripts and screenplays"
+				]
+			},
+			{
+				"name": "Publishing 101 and some fun!",
+				"content": [
+					"Writing in the Vernacular",
+					"More Tips for writing your Novel, and what to do when you lose your breath",
+					"Storytelling V: How to end your story"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "PRAGYA ALAGH",
+				"content": "Pragya Alagh is a Wall of Fame mentee from the MyCaptain Creative writing Workshop, 2015.  In 2016, she started working at Terribly Tiny Tales as a select writer and regular contributor for their social media platforms. In her free time, she likes to attend literary events around her city, Delhi and also organise some. She loves to quote robert frost and Sylvia Plath when she’s losing arguments. Pragya has mentored over 150 students so far.",
+				"image": "pragya.jpg"
+			},
+			{
+				"name": "MADHURA BANERJEE",
+				"image": "madhura.jpg",
+				"content": "Madhura is a published poet and her first book “A tenant of the World” was released in 2017. She has been invited to scores of literary events and festivals as a guest, speaker and facilitator. Apart from delivering poetry recitals on All India Radio, Madhura is also frequents colleges like St. Xavier’s, NITs as a motivational speaker. She has mentored over 200 enthusiasts in Creative writing so far. Many of her mentees have gone on to publish their short stories and poetry in magazines and elsewhere."
+			},
+			{
+				"name": "MADHURA SONEGAONKAR",
+				"image": "madhuras.jpg",
+				"content": "Madhura Sonegaonkar is a Wall of fame mentee from the MyCaptain Creative Writing Workshop, July, 2017. She is now a professional spoken word poet, a terribly Tiny Tales select writer, and also records her poetry for radio and youtube. Madhura is working on her book right now which is scheduled to get published in 2019. You can spot her as a performer, judge, speaker or facilitator at most of the literary circuit events and fests in the Maharashtra region."
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"psychology": {
+		"name": "PSYCHOLOGY",
+		"category": "Creatives & Humanities",
+		"content": "Unlock the secrets of how people behave, by understanding psychoanalysis, research,  psychological testing and Mental disorders. Get introduced to Counselling and other careers in Psychology in this 30 day program",
+		"price": 1000,
+		"whattolearn": [
+			"Decoding Human Personalities",
+			"Applying Psychology in the Workplace",
+			"Introduction to Social psychology",
+			"Making your future in Psychology",
+			"Understanding Therapy",
+			"Personality disorders and types",
+			"Where is Psychology used in daily life?"
+		],
+		"course": [
+			{
+				"name": "History and Schools of Psychology",
+				"content": [
+					"Historical Timeline – Psychology through the ages",
+					"Psychoanalysis and Behaviourism",
+					"Cognitive and Humanistic Perspectives"
+				]
+			},
+			{
+				"name": "Ethics, Research and Understanding yourself",
+				"content": [
+					"The Importance of Ethics in Psychology",
+					"Basic introduction to Research and Psychological Testing",
+					"Understanding Oneself",
+					"Identity vs. Self-Concept"
+				]
+			},
+			{
+				"name": "A look into abnormal Psychology",
+				"content": [
+					"Introduction to Abnormal Psychology",
+					"Using Diagnostic Manuals - DSM & ICD",
+					"The Categories of Mental Disorders",
+					"Anxiety and Mood Disorders",
+					"What exactly is Schizophrenia?"
+				]
+			},
+			{
+				"name": "Counselling and Therapy",
+				"content": [
+					"Introduction to Counselling Psychology",
+					"Understanding the difference between counselling and psychotherapy",
+					"Counselling skills and Schools of Psychotherapy",
+					"Careers in the field of Psychology"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "ANNETTE SHAJU",
+				"content": "Annette is a postgraduate of Psychology with a special interest in the areas of Clinical and Counselling Psychology. Currently she works as a Psychological Trainer and research assistant at Muktha Foundation, Bangalore. As part of the NGO she trains individuals especially on Prevention of Child sex abuse and Suicide. She has mentored close to 300 students in Psychology many of whom are pursuing psychology full time today.",
+				"image": "annette.jpg"
+			},
+			{
+				"name": "DURGA MENON",
+				"image": "durga.jpg",
+				"content": "Durga is a Psychology honours holder and among other things has worked as a research assistant with Mind Matters clinic where she worked on Hypnosis. She also has one published research paper under her belt. Durga has been pursuing psychology for the past 8 years and believes that her true passion lies in Sports Psychology. She has mentored close to 400 students with MyCaptain so far and has empowered many to discover their passion for psychology."
+			},
+			{
+				"name": "DHANYA PILLAI",
+				"image": "dhanya.jpg",
+				"content": "Dhnaya is a post-graduate in Clinical Psychology and is a research Psychologist. Her journey with psychology had begun as a mere interest but with time it transformed into a true passion. She instills the same in her mentees. Dhanya works as a Counsellor with the Organisation, Workplace Options."
+			},
+			{
+				"name": "SHIPRA TIWARI",
+				"image": "shipra.jpg",
+				"content": "Shipra is a Psychology Honours student from CIC, Delhi. She has been passionate about Psychology since childhood and has helped others understand the importance of Child sexual abuse awareness. She also works on analyzing employment opportunities for people with mental health disorders, especially those with Autism."
+			},
+			{
+				"name": "PRERNA DHINGRA",
+				"image": "prerna.jpg",
+				"content": "Prerna has worked as a Junior Special Educator at Wisdom Kidz and has a research paper on “The importance of mental health amongst commercial trainee pilots”. She is currently shadowing a Junior Therapist at Mind Solace in New Delhi. Prerna recently launched a Youtube channel by the name “Prerna Dhingra” to help combat emotional issues by giving the psychological perspective & slowly breaking the stigmatisation around the idea of psychotherapy. She has been instilling her mentees with the same with an unparalleled passion."
+			}
+		],
+		"feed": [
+			{
+				"name": "Aishwarya Gangadharan, Psychology Workshop",
+				"image": "psy_aishwarya.jpg",
+				"content": "In spite of having a background in finance, I was always interested in learning about psychology and the human mind. My Captain is a platform that is easily accessible when you are putting in so much effort looking for distance learning courses, and at a very affordable fees. I found my mentor really approachable and knowledgeable about the subject and all the lessons were equipped with videos that helped me better understand the concepts. It also, however, didn't take up a too many hours per day. I appreciate this brilliant initiative MyCaptain. Totally worth it!"
+			},
+			{
+				"name": "Ekta, Psychology Workshop",
+				"image": "psy_ekta.jpeg",
+				"content": "I had taken up the psychology course and I was very impressed with the efforts taken up by my Captain also the course was very easily accessible and user friendly and finally the feature which I loved the most was the convince to learn at whatever time I wanted to the tasks given and discussion s taken place were very interesting and kept me glued to the topic. At the end of it I was just satisfied by the topics thought in an easy and understandable way"
+			}
+		]
+	},
+	"graphicdesign": {
+		"name": "GRAPHIC DESIGN",
+		"category": "Creatives & Humanities",
+		"content": "In this 30 day Program understand the science behind choosing colours and designing logos! Learn to use Photoshop and Illustrator and make an entry into the World of Graphic design.",
+		"price": 1000,
+		"whattolearn": [
+			"Start with the basics of Design",
+			"Introduction to Photoshop and Illustrator",
+			"Understanding Color and Typography",
+			"Principles of Design",
+			"Understanding Composition and Balance",
+			"Perfecting the Design Process",
+			"Explore elements of Design"
+		],
+		"course": [
+			{
+				"name": "Planning your design",
+				"content": [
+					"What is Graphic Design",
+					"Understanding Colour",
+					"Understanding Typography"
+				]
+			},
+			{
+				"name": "The most important concepts in Design",
+				"content": [
+					"What are Elements of Design?",
+					"Introduction to Photoshop",
+					"Introduction to Illustrator"
+				]
+			},
+			{
+				"name": "The Design process",
+				"content": [
+					"What are Principles of Design",
+					"Understanding Composition"
+				]
+			},
+			{
+				"name": "Execution and Feedback",
+				"content": [
+					"Drafting a design brief",
+					"Understanding the Design Process"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "FATEMA HUSSAIN",
+				"content": "I'm a designpreneur whose guiding principle in design is to bring social change. In my quest for helping people understand Design and its future I have mentored more than 150 students so far, and while some of them have gotten into Design school, others are actively working in the field! ",
+				"image": "fatema.jpg"
+			},
+			{
+				"name": "SUKANTA PAUL",
+				"image": "sukanta.jpg",
+				"content": "A User Experience Designer by profession, I'm currently working with Accenture Digital. An automobile enthusiast, traveler, illustrator, I have worked on a wide variety of projects ranging from designing a vernacular display font to developing a complex healthcare application. I have worked with Companies Like Ogilvy & Mather, Vodafone and has won a couple of awards and accolades. I believe the greatest instrument in learning the craft of design is through trial and error."
+			},
+			{
+				"name": "SHEETAL SHANKAR",
+				"image": "sheetal.jpg",
+				"content": "I am a New Age Experience Designer at Accenture. For the last 2 years, I have lead design teams to create digital and physical experiences for products dealing with next-gen tech like Artificial Intelligence and Virtual Reality. I work on planning the design strategy and creating UX deliverables for various products and services. I have won multiple Awards in my organisation for exemplary design and delivery."
+			}
+		],
+		"feed": [
+			{
+				"name": "Nitesh Reddy, Graphic Design Workshop",
+				"image": "des_nitesh.jpg",
+				"content": "MyCaptain Graphic Design Workshop is one of the best courses I have ever done. The content in the Workshop is very well curated and on to the point. The discussions we have with our mentors is very helpful not only in gaining knowledge but also to clarify every doubt you ever have regarding the course. I was a Mechanical Engineering student and now I’m pursuing Graphic Design full time, thanks to my mentor Fatema!"
+			},
+			{
+				"name": "Rishik Jhunjhunwala, Graphic Design Workshop",
+				"image": "des_rishik.jpg",
+				"content": "The Graphic Designing workshop was an amazing experience, it has allowed to me take a step in the direction of my passion. With a great Workshop outline, and amazingly fun tasks spread out in the middle, the workshop truly allowed me to understand the intricacies of design. Kudos to MyCaptain team and our Captain, Fatema!"
+			}
+		]
+	},
+	"photography": {
+		"name": "PHOTOGRAPHY",
+		"category": "Creatives & Humanities",
+		"content": "A comprehensive guide to creating breath taking compositions and fulfil the hidden Shutter-bug in you. Take the 30 day experience with us!",
+		"price": 1000,
+		"whattolearn": [
+			"Getting familiar with the camera",
+			"Storytelling through photography",
+			"Understand rules of photography",
+			"How to freelance and getting gigs",
+			"Composition and framing of your pictures",
+			"How to get published?",
+			"How to brand yourself as a photographer"
+		],
+		"course": [
+			{
+				"name": "A first look into photography",
+				"content": [
+					"An introduction to photography",
+					"Deciding colours and frame of our subjects",
+					"Back to medieval times’ pictures",
+					"Playing around with the DSLR and getting to know your love",
+					"Spilling around some light"
+				]
+			},
+			{
+				"name": "Camera settings, post processing and Careers in the field",
+				"content": [
+					"A portal to the tiny world",
+					"Freezing the world around?",
+					"Let’s do some editing",
+					"Full control over your gear",
+					"Wonder liquid captured"
+				]
+			},
+			{
+				"name": "Pro Tips and Social media presence",
+				"content": [
+					"Fast forwarding the world",
+					"Late night wandering",
+					"Getting employed",
+					"A quick glance at all the fun",
+					"Lens filters explained"
+				]
+			},
+			{
+				"name": "Final Touches",
+				"content": [
+					"Capturing mist, the slow world",
+					"Panning, the art of motion photography",
+					"In the neighbourhood",
+					"Reverse lens macro",
+					"Magic lantern"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "VIJAY RAMANATHAN",
+				"content": "I love photographing, traveling, film making and physics. I have got many International and National mentions in photography. I have been an active member of National Geographic’s Your Shot Community. My works have got featured and published under Better Photography Magazine. What I enjoy the most is to combine travel videos and music with a perfect sync in each and every beat. I’m a great motivator and I can understand people thoroughly. I love making new friends and meeting new people from different cultures and perspectives. I am Vijay Ramanathan, I am an Instrumentation Service Engineer and I freelance photography as well. I shoot photographs of all genres. Nature, Travel, and Wildlife to be specific! ;) Get ready to be amazed! Come with me, let me show you a different world!",
+				"image": "vijay.jpg"
+			},
+			{
+				"name": "DEEPAK SONI",
+				"image": "deepak.jpg",
+				"content": "I am a 25-year old self taught Photographer and a drop out. I started Photography as a hobby during my engineering and within one year of that term, this hobby turned out to be my long lasting passion and career. Working for different people on diffrent projects is my way of traveling and that's what I love the most. I always charged low prices initially, but never did anything for free."
+			},
+			{
+				"name": "PRACHEE ARYA",
+				"image": "prachi.jpg",
+				"content": "I started my Photography career with an Amateurs passion and headed Photography clubs at my college. In my workshop, I will mentor you in all the skills I have acquired the hard way. I have mentored more than 150 students in the MyCaptain program so far, some of whom have gone ahead to become very good photographers."
+			}
+		],
+		"feed": [
+			{
+				"name": "Roshan Topno , Photography Workshop",
+				"image": "pho_roshan.jpg",
+				"content": "I started my photography as an Amateur passion and joined my college photography club. In my workshop I got to learn a lot of new concept and the discussion session with cap are the best. Till today Mohsin, my captain is helping me in improving my skills. My experience with My Captain has given a blast to my photography skills. This experience with My Captain was so good that it forced me to do another workshop. It has turned out to be a deciding factor."
+			},
+			{
+				"name": "Teenu, Photography Workshop",
+				"image": "pho_teenu.jpg",
+				"content": "I'm happy with the MyCaptain workshop on Photography. It's something even a person without a DSLR camera could do. The transformation from mobile photography to DSLR camera photography is not that easy. I'm ready very happy that my Captain (Mohsin) was always available for any help. The workshop is well organised, with a proper schedule. I found the WhatsApp group associated with the workshop too very useful"
+			}
+		]
+	},
+	"modelunitednations": {
+		"name": "MODEL UNITED NATIONS",
+		"category": "Creatives & Humanities",
+		"content": "Find out how the United Nations works and how to be a part of it. Take part in this 30 day Model United Nations workshop and learn more.",
+		"price": 1000,
+		"whattolearn": [
+			"Understanding United Nations",
+			"Learning research strategies",
+			"Examining the United Nations Charter",
+			" Perfecting Paperwork",
+			"Exploring the different bodies of the UN",
+			"Rules of Procedure",
+			"Decoding the mandates of different committees"
+		],
+		"course": [
+			{
+				"name": "The UN and the MUN",
+				"content": [
+					"What is United Nations",
+					"What is Model United Nations",
+					"Examining the United Nations Charter"
+				]
+			},
+			{
+				"name": "Digging Deeper into MUNs ",
+				"content": [
+					"What are the different bodies of the UN",
+					"Mandates of different committees (non specialised)",
+					"Let’s do some editing",
+					"Mandates of different committees (specialised)"
+				]
+			},
+			{
+				"name": "Strategies for your MUN",
+				"content": [
+					"What research strategies to follow?",
+					"RoP (General Committees)",
+					"RoP (Specialised Committees)"
+				]
+			},
+			{
+				"name": "Paperwork, Practice and inside information",
+				"content": [
+					"Paperwork for General Committees",
+					"Paperwork for Specialised Committees",
+					"pro-Tips for your Model United Nations"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SABIQ CHAUDHARY",
+				"content": "I am a graduate from SRM University, Chennai. I've done over 40 MUNs in the capacity of being an Executive Member, delegate and Member of the OC. My specialisation lies in Disarmament and Military based committees and I also have a special inclination towards Crisis committees wherein I love to topple governments, start wars and basically like to end conflicts by starting new ones! ;) Besides MUNs, I am a metal music fanatic which might be surprising for you considering my appearance of a peaceful Sufi singer. If you are coming to my committee, expect subtle, clever responses to no matter what you throw at me. All the best!",
+				"image": "sabiq.jpg"
+			},
+			{
+				"name": "PRAGYA ALAGH",
+				"image": "pragya.jpg",
+				"content": "My first encounter with debating was in 10th grade when the first session for MUNs was held in our school. Since then, there has been no looking back. I have been involved in MUNs throughout my school life as the President of the MUN Society but that's not where my association with debating ends. So far, I've participated in about 100 MUNs, conventional and parliamentary debates (and won some) and currently work as the head co-ordinator for the debating society at my Indraprastha College for Women. I'm really passionate about debating and public speaking primarily because it gives me a chance to gain perspective on issues as well as to have a platform to be heard."
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"spokenwordpoetry": {
+		"name": "SPOKEN WORD POETRY",
+		"category": "Creatives & Humanities",
+		"content": "In this 30 Day Online Workshop Conducted by Airplane Poetry Movement, learn the tricks of Spoken Word Poetry, write and perform better. Also learn how to Market your content Online!",
+		"price": 1500,
+		"whattolearn": [
+			"Introduction to spoken word poetry",
+			"Recording & Publishing Your Poems",
+			"Learning poetic techniques and devices",
+			"How to gain and retain a captive audience for your poetry",
+			"Decoding the art of editing",
+			"Charting out your long-term roadmaps for poetic success!",
+			"Basic & advanced techniques to a good performance"
+		],
+		"course": [
+			{
+				"name": "The writing process",
+				"content": [
+					"Intro to spoken word poetry, and how it's different from page poetry",
+					"The Art of Writing: How to use poetic techniques and devices in your poems."
+				]
+			},
+			{
+				"name": "Understanding Rhyme, rhythm and how to edit your poems ",
+				"content": [
+					"The Art Of Editing: Methods & techniques to edit your poems",
+					"How To Perform Like A Pro: Basic & advanced rules to perform to the best of your ability"
+				]
+			},
+			{
+				"name": "Performing your poetry",
+				"content": [
+					"How To Record & Publish Your Poems",
+					"Feedback Session: We give you personalised feedback on your poems"
+				]
+			},
+			{
+				"name": "Marketing and publishing your Poetry",
+				"content": [
+					"How to gain and retain a captive audience for your poetry",
+					"Conclusion To The Workshop: Charting out your long-term roadmaps for success!"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SHANTANU ANAND",
+				"content": "I am the co-founder of Airplane Poetry Movement. My job is to help poets reach the top of their potential, and create spoken word poems that they're truly proud of! I've performed poetry at events like TEDxBangalore, Times Lit Fest Delhi and Spoken Fest, Mumbai. I have been published in magazines like Muse India and The Bombay Review. In the last 4 years, I've conducted over 75 workshops across the country, for a cumulative total of over 1500 people.",
+				"image": "ShantanuAnand.jpg"
+			},
+			{
+				"name": "NANDINI TRIVEDI",
+				"image": "NandiniVarma.jpg",
+				"content": "I am the co-founder of Airplane Poetry Movement. We organised the first National Youth Poetry Slam in India, and got poets like Sarah Kay and Phil Kaye to India. I have performed poetry at events like TEDxBangalore, Times Lit Fest Delhi and Spoken Fest, Mumbai and shared stage with the likes of Sarah Kay and Phil Kaye. I have been published in magazines like Muse India and The Bombay Review. In the last 4 years, I have conducted over 75 workshops across the country, for a cumulative total of over 1500 people."
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"bloggingandcontentwriting": {
+		"name": "BLOGGING AND CONTENT WRITING",
+		"category": "Creatives & Humanities",
+		"content": "Learn the basics of building a blog and selecting your genre successfully. Help garnish your writing style and learn how to publicise your blog in this 30 Day Online Workshop!",
+		"price": 1000,
+		"whattolearn": [
+			"Introduction to Blogs",
+			"Steps to tackle Blogger's Block",
+			"A beginner's guide to setting up blogs",
+			"Content Promotion Strategies",
+			"Develop quality content creation skills",
+			"How to monetise your blog",
+			"Developing a Network and relationships in the Blogging Community"
+		],
+		"course": [
+			{
+				"name": "Getting started",
+				"content": [
+					"What is a blog?",
+					"Is Blogging the right fit for you?",
+					"A beginner's guide to setting up blogs"
+				]
+			},
+			{
+				"name": "Planning it all out",
+				"content": [
+					"Finding your blogging voice",
+					"Developing relationships in a blogging community",
+					"Handling feedback and negativity on writing"
+				]
+			},
+			{
+				"name": "Exploring your creative edge",
+				"content": [
+					"Why is reading content as important as creating content?",
+					"Steps to tackle blogger's block",
+					"Solutions to combat Plagiarism in content creation"
+				]
+			},
+			{
+				"name": "Discovering the Blogging Community",
+				"content": [
+					"Can blogs lead you to bigger and better things?",
+					"Blog and Content Promotion",
+					"Monetising your Passion Project"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "ARCHANA SURESH",
+				"content": "I am a Finance Graduate by profession and currently working as an Analyst at a Private Equity Firm, and write for my passion project, TheCulinaryColloquy in my free time. Amassing thousands of views in my last year spanning from 39 countries spanning 6 continents, my blog has not only been a constant source of joy for me but also a humble reminder of just how interconnected this community has become today. I hope share my journey so far through this workshop and benefit you guys.",
+				"image": "ArchanaSuresh.jpg"
+			},
+			{
+				"name": "RACHNA CHAWLA",
+				"image": "rachna.jpg",
+				"content": "I am the founder of Scripto. , which started out as a content writing startup in Jan'17, but since then we have also ventured in domains like designing and SEO. Prior to Scripto, I have worked with various brands as a freelancer, to help them curate content strategies. In addition to this, I have been a part of learning programs carried out by Discovery Channel Asia, TISS (Mumbai) etc. This has helped me unlock new tricks and trends to begin with a Content Strategy. I hope I am able to share all my experiences with you guys and help you take the first step in this field."
+			},
+			{
+				"name": "SOHAM BASAK",
+				"image": "soham.jpg",
+				"content": "I'm a medical student by profession and a blogger, graphic designer and video editor by passion! I have been enthusiastic about blogging, Creative Writing and Photography since High School when I started out with Freelancing. I'm now working for a Content writing Company called Scripto. I have completed over 80 Commercial projects so far. I believe in giving back to the community!"
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"shortfilmmaking": {
+		"name": "SHORT FILM MAKING",
+		"category": "Creatives & Humanities",
+		"content": "In this 30 Day Workshop understand Film Making from Scratch. Learn the basics of Screenplay, Pre Production, Post Production, Music Production and the life of a Film Maker!",
+		"price": 2800,
+		"whattolearn": [
+			"Create an original 3 minute short film",
+			"The essentials of Direction and what Directors do",
+			"Basics of screenplay",
+			"Introduction and Analysis of Cinematography",
+			"Everything about pre-production",
+			"The A-Z of Post Production",
+			"Planning and scheduling your Production",
+			"Marketing your Film"
+		],
+		"course": [
+			{
+				"name": "An introduction to Films",
+				"content": [
+					"Get closer to the medium of film",
+					"Analysing different types of scenes",
+					"Brainstorming and Idea generation for your Film",
+					"Visual writing and Introduction to Screenplays",
+					"Elements of Screenplay : Storytelling. plot, theme and character psychology"
+				]
+			},
+			{
+				"name": "Pre Production",
+				"content": [
+					"The A-Z of Pre-Production",
+					"The A-Z of writing a Screenplay",
+					"How to plan for the Location, Scouting, Casting etc.?",
+					"Planning and Scheduling your Production",
+					"The A-Z of production"
+				]
+			},
+			{
+				"name": "Exploring your creative edge",
+				"content": [
+					"Why is reading content as important as creating content?",
+					"Steps to tackle blogger's block",
+					"Solutions to combat Plagiarism in content creation"
+				]
+			},
+			{
+				"name": "Production",
+				"content": [
+					"The essentials of Direction and what Directors do",
+					"Exploring Production Design, Acting and other Departments",
+					"Introduction and Analysis of Cinematography",
+					"The A-Z of Post Production",
+					"Introduction to Editing, Cuts, role of editor & Editing techniques"
+				]
+			},
+			{
+				"name": "Post Production and Distribution",
+				"content": [
+					"Music and Sound Production for Films",
+					"Marketing and Branding your Film - promotion strategies",
+					"Audience Psychology - Relationship between the creator and Spectator",
+					"Careers in Film Making"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "KEVIN SHADARACH",
+				"content": "I started off with translating two of my poems into films, of which the latter got to participate in National and International film festivals and bagged a handful of nominations, awards and laurels. Along with that, I also run a small time creative business house called 'Kunst Von Drach' roofing customised fine art services, a media production house and a performing platform. Writing screenplays is a hobby, a passion as well as a profession. I have also penned lyrics for an English song in a 2011 Tamil feature film at the age of 12.",
+				"image": "kevin.jpg"
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"uiuxdesign": {
+		"name": "UI & UX Design",
+		"category": "Creatives & Humanities",
+		"content": "In this 30 day Program understand the science behind how the Interfaces of various websites and Apps are made, and why they look the way they do. Also learn the basics of User Research and how to use the Software to do the same as well!",
+		"price": 2800,
+		"whattolearn": [
+			"Understanding the design process",
+			"How to design lo-fi wireframes",
+			"How to Conduct user research",
+			"Creating hi-fi wireframes on Axure RP",
+			"Creating the Information architecture for an app",
+			"How to create a style-guide",
+			"Developing a Network and relationships in the Blogging Community",
+			"Prototyping with tools"
+		],
+		"course": [
+			{
+				"name": "Welcome to Experience Design",
+				"content": [
+					"What is UI/UX Design?",
+					"Understand the design Process",
+					"Look at an existing App/Website that you feel has usability issues",
+					"What is a Creative Brief?"
+				]
+			},
+			{
+				"name": "Ready Set Go",
+				"content": [
+					"User Research - Types of user research, Empathy Maps, Personas",
+					"How to do document user research",
+					"Brainstorming and ideation : coming up with solutions (Information architecture, card sorting, screen flow etc)",
+					"Interface Design (ethics of user engagement and UX, principles of design)"
+				]
+			},
+			{
+				"name": "Sprint 2 - The real deal",
+				"content": [
+					"What is Wireframing",
+					"Creating Lo-fi wireframes for your app redesign",
+					"Exploring different tools for hi-fi wireframing (axure RP, Sketch)",
+					"Introduction to Visual Design and hi-fi wireframes",
+					"What is a style guide and how to make one"
+				]
+			},
+			{
+				"name": "The Finale",
+				"content": [
+					"Tutorials for sketch",
+					"What is prototyping? How to prototype on sketch and InVision?",
+					"User Testing",
+					"How to review your Prototypes"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SUKANTA PAUL",
+				"content": "A User Experience Designer by profession, I'm currently working with Accenture Digital. An automobile enthusiast, traveler, illustrator, I have worked on a wide variety of projects ranging from designing a vernacular display font to developing a complex healthcare application. I have worked with Companies Like Ogilvy & Mather, Vodafone and has won a couple of awards and accolades. I believe the greatest instrument in learning the craft of design is through trial and error.",
+				"image": "sukanta.jpg"
+			},
+			{
+				"name": "SHEETAL SHANKAR",
+				"image": "sheetal.jpg",
+				"content": "I am a New Age Experience Designer at Accenture. For the last 2 years, I have lead design teams to create digital and physical experiences for products dealing with next-gen tech like Artificial Intelligence and Virtual Reality. I work on planning the design strategy and creating UX deliverables for various products and services. I have won multiple Awards in my organisation for exemplary design and delivery."
+			}
+		],
+		"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	},
+	"androidappdevelopment": {
+		"name": "ANDROID APP DEVELOPMENT",
+		"category": "Technology",
+		"content": "This comprehensive 30 day workshop will train you in the basics of Java, and help you build your first Android App from scratch.",
+		"price": 1000,
+		"whattolearn": [
+			"Introduction to Android and Android Studio",
+			"Basics of Java (For beginners)",
+			"Planning an App and conducting a competitive analysis",
+			"Learn Event Handling, Buttons and Intents",
+			"Wireframe your Application using sketches",
+			"Develop the back-end functionality of your Application",
+			"Implementing the Front end of your Application on Android Studio",
+			" Career prospects, freelancing and other opportunities for Developers"
+		],
+		"course": [
+			{
+				"name": "Let's get started",
+				"content": [
+					"Meet the GOD - Java.",
+					"Getting to know the android technology and Community",
+					"Setting up your Android Workstation",
+					"Writing your first android app"
+				]
+			},
+			{
+				"name": "Designing your android application",
+				"content": [
+					"Design your app - Adding views",
+					"Programming your button - Event handling",
+					"Jump from one screen to another)",
+					"Connect your app to the internet"
+				]
+			},
+			{
+				"name": "Start Coding",
+				"content": [
+					"Java Basics-1",
+					"Java installation and beginning",
+					"Java - Input / Output",
+					"Java - Decision making concepts"
+				]
+			},
+			{
+				"name": "Finish building your application",
+				"content": [
+					"Java loops",
+					"Java - Implementation",
+					"Java - Programming libraries",
+					"Java - Exception handling"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SHIVENDRA SINGH",
+				"content": "I am the Co Founder and Chief Technology Officer of Droid Sector, a Tech Startup. I've led teams in various android development projects and have mentored close to 100 students in the same. I am passionate about empowering young India with technology like never before.",
+				"image": "shiven.jpg"
+			},
+			{
+				"name": "NINAD MOHITE",
+				"image": "ninad.jpg",
+				"content": "I have been an enthusiastic Android developer for a couple of years now. I have developed many apps, one of them has around 40k downloads on the PlayStore. I have also mentored my juniors in the college through the Google Developers Student Club (DSC) program. This is a great opportunity for me to share my experience and skills and empower students who are at the same stage as I once was!"
+			},
+			{
+				"name": "ABHIPRAE CHOUDHARY",
+				"image": "abhiprae.jpg",
+				"content": "II am a software engineer in HP Inc. I have been working in Android Development for past 4 years, and during these 4 years I have completed over 15 projects for various clients. I like working on Android so I keep working on some or the other project that helps me learn and explore more and more about it. I love teaching and mentoring others on what I know by now!"
+			},
+			{
+				"name": "AKSHAY GUPTA",
+				"image": "askshay.jpg",
+				"content": "I am a Software Engineer by Profession and a coder by choice. I am into mobile application development from the past 3 years and have developed some of the apps for my clients as well. I have mentored more than 300 students in this field and love doing so. I feel mentoring is the best way to both share and gain knowledge."
+			},
+			{
+				"name": "PRASHANTH",
+				"image": "prashanth.jpg",
+				"content": "I started my journey as an android developer by doing a MyCaptain Online Workshop. I have worked on two projects as an Android Developer and I have extensively worked with location APIs. I am passionate about creating Innovative and Flexible apps that make our lives simpler. This is a very good opportunity for me to open up about my insights, share my experiences, skills in Android and also to continue the learning process with you. I keep working on several projects and apps so as to learn all flavours of Android Development"
+			}
+		],
+		"feed": [
+			{
+				"name": "Anurag, Web Development Workshop",
+				"image": "web_anurag.jpg",
+				"content": "The Web development workshop was a nice one. I really liked the concept of live teaching. It would be even better if it were for little longer period of time because one month was quite a short time to learn most of the web development or to at least reach an intermediate level of programming which I was expecting. But for just the basics of web development, it was a great course"
+			},
+			{
+				"name": "Pratishtha, Web Development Workshop",
+				"image": "web_pratishtha.jpg",
+				"content": "I'm currently pursuing my BBA at Symbiosis, Pune. Today when almost the entire world is going digital, I feel learning basic coding is a really beneficial skill. Moreover, I am into marketing in the digital space and would like to be able to make my own website, if ever required. I did a web development course from MyCaptain and I think it was absolutely worth my time and effort. I recommend MyCaptain to everyone out there who is looking forward to learning new skills at their own convenience."
+			}
+		]
+	},
+	"artificialintelligence": {
+		"name": "ARTIFICIAL INTELLIGENCE",
+		"category": "Technology",
+		"content": "This comprehensive 30 day workshop will train you in the basics of Python, Natural Language Processing, Sentiment Analysis and Data evaluation to prepare you for the latest jobs in AI.",
+		"price": 1000,
+		"whattolearn": [
+			"Basics of Python (for beginners)",
+			"Exploring Machine Learning Algorithms",
+			"Decision making, Functions, Classes and Objects in Python",
+			" Writing and Testing your First ML Algorithm",
+			"Understanding the role of Python in Data Science",
+			"Introduction to NLP, Sentiment Analysis and Deep Learning",
+			"Introduction to Machine Learning - A practical approach",
+			"  Careers and opportunities in AI"
+		],
+		"course": [
+			{
+				"name": "An Introduction to AI and Python",
+				"content": [
+					"What are datasets and what are the different kinds of data sets",
+					"Set up your Ubuntu work environment (optional), benefits.",
+					"Basics of Python : Variables and creating data and flow statements"
+				]
+			},
+			{
+				"name": "Using Python for Data Sciences",
+				"content": [
+					"Basics of python : Functions and advanced data types",
+					"Pandas and mathplotlib",
+					"Creating the math functions in Python",
+					"An in depth look into mathplotlib and pandas"
+				]
+			},
+			{
+				"name": "Writing your first Machine Learning Algorithm",
+				"content": [
+					"Explore the data : Use Pandas and mathplotlib",
+					"What are algorithms? Math in the real world",
+					"Building and Ratifying your Algorithm"
+				]
+			},
+			{
+				"name": "A look into NLP, Deep Learning and the future of AI",
+				"content": [
+					"How to evaluate your Algo’s performance",
+					"How does facial recognition work",
+					"Careers, Opportunities and Networking"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SHAIL SHAH",
+				"content": "I am a Computer Science Engineer by profession and used to work at Tata Consultancy before, where I created 2 Artificial Intelligence bots which are being used by two International Airlines right now. I have worked on query based text summarisers as well, among others. I have a keen interest in AI research and have published papers on the same.",
+				"image": "Shail.jpg"
+			},
+			{
+				"name": "NINAD MOHITE",
+				"image": "ninad.jpg",
+				"content": "I have been an enthusiastic Android developer for a couple of years now. I have developed many apps, one of them has around 40k downloads on the PlayStore. I have also mentored my juniors in the college through the Google Developers Student Club (DSC) program. This is a great opportunity for me to share my experience and skills and empower students who are at the same stage as I once was!"
+			},
+			{
+				"name": "YUVRAJ JESWAL",
+				"image": "yuvraj.jpg",
+				"content": "I am Yuvraj and I work with VMware as an application developer since Jan 2017 after graduating from BIT Mesra, Ranchi. I am a big fan of learning new things, building cool things and using tech for good. I love mentoring people and being a captain for MyCaptain is an exciting thing I am looking forward to. Apart from this, I enjoy sports, quizzing and literature as well! So bring it all on!"
+			}
+		],
+		"feed": [
+			{
+				"name": "Aaditi Verma, Artificial Intelligence Workshop",
+				"image": "ai_aadit.jpg",
+				"content": "I had an amazing experience with cooperative peeps, understanding mentor or as we call him Captain! He not only provided solutions to our various problems be it as stupid and simple but also gave reasons behind each and every command he taught! He was always there to help us. He even encouraged & guided everyone in the batch to always keep trying. In all, i had a great & fun-filled experience."
+			},
+			{
+				"name": "Anish Poddar, Artificial Intelligence Workshop",
+				"image": "ai_anish.jpg",
+				"content": "The MyCaptain course was an insightful and practical introduction to the world of AI, Machine Learning and Language Processing, interweaving live chat sessions with small but educational assignments to test out our skills. The course content was complete and holistic, providing the framework for a structured but fun introduction to the topic. Sessions were engaging, compact and interspersed with practical examples. Our Mentor was smart, patient and helpful throughout the course, and queries were solved very satisfactorily. Moreover, I liked that the course was open-ended in the sense that it allowed its takers to go above and beyond the course material to explore the subject and its implementation in further depth. I definitely took a lot away from this course, and recommend it to others without the slightest hesitation."
+			}
+		]
+	},
+	"webdevelopment": {
+		"name": "WEB DEVELOPMENT",
+		"category": "Technology",
+		"content": "Learn the basics of HTML5, CSS3 and Bootstrap, PHP and Javascript to build your first Website from scratch in this 30 day Online Workshop!",
+		"price": 1000,
+		"whattolearn": [
+			"Ideate and wireframe your website",
+			"Work on MySQL Database",
+			" Learn about the latest Design Trends",
+			" Basic Hacks for keeping Users safe",
+			"Develop the skeleton of your Website using HTML",
+			"Build a form for your website",
+			"Use Bootstrap to Design your Website",
+			"  Career prospects, freelancing and other opportunities for Developers",
+			"Add functionality using PHP"
+		],
+		"course": [
+			{
+				"name": "Ideating and wireframing your website",
+				"content": [
+					"Take your first step in Web Development - The very basics",
+					"The DNA of every website - HTML5",
+					"Creating wireframes - Do's and Dont's"
+				]
+			},
+			{
+				"name": "Designing your Website with bootstrap",
+				"content": [
+					"The craft of styling the website - CSS3",
+					"The Internet's fashion guide - Bootstrap",
+					"Adding functionality to the website - PHP"
+				]
+			},
+			{
+				"name": "Working on the backend",
+				"content": [
+					"Working with Data - MySQL",
+					"Being a Web Developer - Career Aspects",
+					"Web Dev - Things worth knowing"
+				]
+			},
+			{
+				"name": "Your future as a Web Developer",
+				"content": [
+					"Testing the website - User Experience",
+					"Putting the website online - Taking things online",
+					"The journey of a Web Developer",
+					"Freelancing Opportunities as Web Developer"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "AQUIB AJANI",
+				"content": "I'm a software engineer by profession and have been training students in Programming for the past 6 years now. I have trained over 600 students in various different Programming languages and frameworks so far and I realise one thing- Engineering students in India need to have a deeper understanding of things. I want to change this. I'm also the formal trainer with the MyCaptain Coders Pack.",
+				"image": "aquib.jpg"
+			},
+			{
+				"name": "ADITYA PUDIPEDDI",
+				"image": "aditya.jpg",
+				"content": "Being an introvert is tough, you have to make up for all the energy you save by not interacting with people doing something else. I have utilised this energy in satisfying my curiosity. I work as a Web-developer to make ideas eternal and ever accessible to everyone through a single medium. In my two years of experience with web, I have made nearly 30 portals that are tailor-made for various functionalities like theme-selection, registration, certification and so on. With the challenge of new languages and better frameworks. I move forward teaching what I've learnt as best as I can and learning greater things to continue the cycle."
+			},
+			{
+				"name": "ANURAG",
+				"image": "anurag.jpg",
+				"content": "I started by making software for my own college and later selling it to other colleges. The adventure continued when I joined a startup to learn the industry way of shipping a product. Some of the interesting  things that I have worked on in the past are for example the BHIM UPI app by out honourable Prime Minister Narendra Modi launched in less than a month during demonetisation. I was part of a two-member team who coded the Gozoomo bikes application in less than a week. Added some product features which increased the conversion rate by 10-20%. I have also shipped a serverless web app for Gozoomo bikes marketing site which decreased the CPC from Rs.350 to Rs.50, also conversions increased conversions by 25%. The VTU results site was always slow during results, hence I deployed a WhatsApp bot which would fetch the results from VTU and send via WhatsApp. The bot saw a growth of more than 500 users in less than 3 days. The bot would give a feeling that someone was typing the results before sending which would give an impression to the end user that it was not a bot. It is going to be an adventure mentoring young minds now!"
+			},
+			{
+				"name": "HARSHITH MULLAPUDI",
+				"image": "harshith.jpg",
+				"content": "I'm Harshith Mullapudi. I'm 1 part fun-loving, 3 parts developer, 2 parts adventurous gypsy and a happy person all the way. I am basically Frankenstein who loves his weird creations. I am constantly developing different applications. I am a problem solver and always want to learn something new and exciting. When I'm not developing, I explore the city and sometimes take impromptu trips to have a change of scenery. You'll find me glued to my laptop, or trekking my way through mountains"
+			}
+		],
+		"feed": [
+			{
+				"name": "Anurag, Web Development Workshop",
+				"image": "web_anurag.jpg",
+				"content": "The Web development workshop was a nice one. I really liked the concept of live teaching. It would be even better if it were for little longer period of time because one month was quite a short time to learn most of the web development or to at least reach an intermediate level of programming which I was expecting. But for just the basics of web development, it was a great course"
+			},
+			{
+				"name": "Pratishtha, Web Development Workshop",
+				"image": "web_pratishtha.jpg",
+				"content": "I'm currently pursuing my BBA at Symbiosis, Pune. Today when almost the entire world is going digital, I feel learning basic coding is a really beneficial skill. Moreover, I am into marketing in the digital space and would like to be able to make my own website, if ever required. I did a web development course from MyCaptain and I think it was absolutely worth my time and effort. I recommend MyCaptain to everyone out there who is looking forward to learning new skills at their own convenience."
+			}
+		]
+	},
+	"fullfstackdevelopment": {
+		"name": "FULL STACK DEVELOPMENT",
+		"category": "Technology",
+		"content": "After the 30 days, the mentees will be able to build a MVP SAAS product using modern web technologies within 30 days. 1. Working on React, FLASK and SQLALCHEMY 2. Understanding how product development happens in startups 3. Developing skills of a full-stack developer",
+		"price": 3000,
+		"whattolearn": [
+			" Understand the Development process in a startup environment",
+			"Introduction to Node.JS and building your first API",
+			"  Ideate and wireframe the modern web app you plan to build",
+			" Build your database in MongoDB",
+			"Set Up your Development environment (for beginners)",
+			"Deploying your App on Heroku",
+			"Build a Portfolio Website using CSS and HTML",
+			"Careers prospects and Opportunities as a Full Stack Developer",
+			"Build interaction into your app using React JS"
+		],
+		"course": [
+			{
+				"name": "Ideation and Designing",
+				"content": [
+					"How startups build products, What are MVPs, roadmap of full-stack development, come up with an idea of an app.",
+					"How to use Google as a Developer - Links to reference sites",
+					"What is Wireframing? How to do it? Things to keep in mind while doing it."
+				]
+			},
+			{
+				"name": "Front End Development",
+				"content": [
+					"Setting up your development environment",
+					"Basics of Front end Development - HTML, CSS",
+					"Building a portfolio site - example site",
+					"Introduction To JavaScript",
+					"Using JS on your portfolio site",
+					"Introduction to React JS",
+					"Building your wireframe into a UI using React JS"
+				]
+			},
+			{
+				"name": "Database and Servers",
+				"content": [
+					"Introduction to FLASK (python)",
+					"Building your first API",
+					" Introduction to Database - SQLALCHEMY",
+					"How to build an API for your App",
+					"Integration of frontend (UI) and backend (API)",
+					"Error handling, REST APIs - Going beyond the MVP"
+				]
+			},
+			{
+				"name": "Deploying and User Feedback",
+				"content": [
+					"How servers work, and deploying your app (Heroku)",
+					"How to take your App Live",
+					"How to collect user feedback",
+					"Career prospects and opportunities as a Full Stack Developer"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "HARSHITH MULLAPUDI",
+				"image": "harshith.jpg",
+				"content": "I'm Harshith Mullapudi. I'm 1 part fun-loving, 3 parts developer, 2 parts adventurous gypsy and a happy person all the way. I am basically Frankenstein who loves his weird creations. I am constantly developing different applications. I am a problem solver and always want to learn something new and exciting. When I'm not developing, I explore the city and sometimes take impromptu trips to have a change of scenery. You'll find me glued to my laptop, or trekking my way through mountains"
+			}
+		],
+		"feed": [
+			{
+				"name": "Anurag, Web Development Workshop",
+				"image": "web_anurag.jpg",
+				"content": "The Web development workshop was a nice one. I really liked the concept of live teaching. It would be even better if it were for little longer period of time because one month was quite a short time to learn most of the web development or to at least reach an intermediate level of programming which I was expecting. But for just the basics of web development, it was a great course"
+			},
+			{
+				"name": "Pratishtha, Web Development Workshop",
+				"image": "web_pratishtha.jpg",
+				"content": "I'm currently pursuing my BBA at Symbiosis, Pune. Today when almost the entire world is going digital, I feel learning basic coding is a really beneficial skill. Moreover, I am into marketing in the digital space and would like to be able to make my own website, if ever required. I did a web development course from MyCaptain and I think it was absolutely worth my time and effort. I recommend MyCaptain to everyone out there who is looking forward to learning new skills at their own convenience."
+			}
+		]
+	},
+	"racecartech": {
+		"name": "RACE CAR TECH",
+		"content": "Look into understanding and designing different components of an automobile and how race cars differ from regular vehicles in this 30 day Workshop!",
+		"price": 1000,
+		"whattolearn": [
+			" Getting familiar with the components of an automobile",
+			"Safety factors while designing a car",
+			" A deeper look into engines",
+			" A look into professional automobile racing",
+			" Designing & Manufacturing of cars",
+			"How to join Student Automobile teams and competitions"
+		],
+		"course": [
+			{
+				"name": "Let's get started",
+				"content": [
+					"Introduction - Let's start the engine",
+					"Components and Subsystems - Accelerate with components",
+					"Heart of the matter - Engine working"
+				]
+			},
+			{
+				"name": "Engines, CAD and safety in Cars",
+				"content": [
+					"The Fashion of cars - Car Designing",
+					"Safety Parameters - Buckle up your seat belts",
+					"Making of Car - From paper to wheel"
+				]
+			},
+			{
+				"name": "Motorsports and Student Racing Events",
+				"content": [
+					"Pushing to the limits -Auto Racing",
+					"Smoke-free cars and UNSGD's",
+					"Fast cars and Slow cars :)"
+				]
+			},
+			{
+				"name": "Environment friendly Vehicles",
+				"content": [
+					"The new inventions - Upcoming technologies",
+					"Car Bible - Car terminologies",
+					"Let's park the vehicle back"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "ABDUL QADEER",
+				"image": "AbdulQadeerSiddiqui.jpg",
+				"content": "I have studied automobile engineering from JNTU, Hyderabad. I have co-founded a car maintenance venture Carjoz. I am actively involved in motorsports events under Mean Metal Motors. I am also the fan-site operator of FIA Formula E India fan-site. I will be sharing my love and passion for cars in this workshop with you all."
+			},
+			{
+				"name": "ROHIT SEN",
+				"image": "rohit.png",
+				"content": "I am a second year B. Tech student in Electronics and Communication Department of SRM Institute of Science and Technology. I am working as an Electronics Engineer in the Formula Students Electric Team at SRM IST. I have also worked on Autonomous Underwater Vehicles. I have also worked on some electronics and IOT related projects."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Shobhit, Ethical Hacking Workshop",
+				"image": "hack_shobhit.jpg",
+				"content": "To catch a thief, think like one. To thwart a hacker, become one. The MyCaptain workshop on ethical hacking introduced the intricacies of computer networks and even how to exploit them. It shed light on the various measures that are taken against the black-hats or the bad hackers. Many links were provided in each lesson for further reading. Best of all, it even introduced us to a community that has computers integrated into their lifestyles.  Also, you can search anything on Google, even passwords."
+			},
+			{
+				"name": "Srinath, Ethical Hacking Workshop",
+				"image": "hack_Srinath.jpg",
+				"content": "The workshop on Ethical Hacking was awesome. I was a bit nervous in the beginning, but later the mentor guided well. The discussion days helped in clarification of my doubts. The Tasks to be performed were like making the hack realistic and getting practical. I liked being a part of workshop."
+			}
+		]
+	},
+	"programmerspack": {
+		"name": "Programmers Pack",
+		"category": "Technology",
+		"content": "Take your first step into the field of programming by learning C, C++, JAVA and Python right from the basics. Build interesting Projects from scratch and get guest sessions by Developers from your Dream Companies like Google, Apple and Tesla.",
+		"price": 4000,
+		"whattolearn": [
+			"Get into a programmers mindset",
+			"Get your basics right for C, C++, Java and Python",
+			" Build a Hostel room allotment system using C",
+			" Build a game using C++",
+			" Work on a Web Application using Java and Python",
+			" Get recruitment and project ready"
+		],
+		"course": [
+			{
+				"name": "C Programming",
+				"content": [
+					"Hello World - How everything works ",
+					"Dealing with the basics of Data",
+					"Making Rational Decisions ",
+					"Looping 101 ",
+					"Getting comfortable with Arrays",
+					"Working with Strings",
+					"Pointers : All you need to know",
+					"Allotting work with Functions",
+					"Structures : Putting things together",
+					"Project #1 - Hostel Room Allotment System"
+				]
+			},
+			{
+				"name": "C++ Programming",
+				"content": [
+					"Hello World - How everything works(differences)",
+					"Appealing the user",
+					"Object Oriented Programming(OOP) concepts",
+					"Working with Classes and Objects",
+					"Functions in C++ ",
+					"Making a calculator",
+					"Exploring loops : Playing with alphabets",
+					"Functions : Taking the easy way out",
+					"Structures : Doing things the old way",
+					"Realising the OOP concepts in code",
+					"Introduction to Graphics",
+					"roject #2 - Snakes and Ladders Game"
+				]
+			},
+			{
+				"name": "Java Programming",
+				"content": [
+					"Hello World - How everything works in Java",
+					"Installing and setting up the environment",
+					"Interacting with the user",
+					"Decisions that dont cause trouble",
+					"Repeating tasks : Loops",
+					"Putting 2+2 together",
+					"Working with the libraries #1",
+					"Handling exceptions",
+					"Overloading methods",
+					"nheriting from previous generations",
+					" A look at Graphics in Java",
+					"Project #3 - A windows desktop application"
+				]
+			},
+			{
+				"name": "Python Programming",
+				"content": [
+					"Hello World - How everything works in Python(scripting)",
+					"Input/Output, Strings, Variables and Math Operators",
+					"Listing data : Arrays and Lists ",
+					"Branching and Looping in python",
+					"Splitting tasks : Functions",
+					" Libraries in Python",
+					"Object Oriented Programming with Python",
+					"Project #4 - A web-based application"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "AQUIB AJANI",
+				"image": "aquib.jpg",
+				"content": "I’m a Software Engineer by profession and have been training students in Programming for the past 6 years now. I have trained over 600 students in various different Programming languages and frameworks so far and I realise one thing - Engineering students in India need to have a deeper understanding of things. I want to change that. I’m also the formal trainer with the MyCaptain Web Development Workshop."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Shobhit, Ethical Hacking Workshop",
+				"image": "hack_shobhit.jpg",
+				"content": "To catch a thief, think like one. To thwart a hacker, become one. The MyCaptain workshop on ethical hacking introduced the intricacies of computer networks and even how to exploit them. It shed light on the various measures that are taken against the black-hats or the bad hackers. Many links were provided in each lesson for further reading. Best of all, it even introduced us to a community that has computers integrated into their lifestyles.  Also, you can search anything on Google, even passwords."
+			},
+			{
+				"name": "Srinath, Ethical Hacking Workshop",
+				"image": "hack_Srinath.jpg",
+				"content": "The workshop on Ethical Hacking was awesome. I was a bit nervous in the beginning, but later the mentor guided well. The discussion days helped in clarification of my doubts. The Tasks to be performed were like making the hack realistic and getting practical. I liked being a part of workshop."
+			}
+		]
+	},
+	"ethicalhacking": {
+		"name": "ETHICAL HACKING",
+		"category": "Creatives & Humanities",
+		"content": "Start from the basics of Network Penetration testing and work your way up to hacking WIFI networks (for good). Also explore a career in Ethical Hacking in this 30 day workshop",
+		"price": 1000,
+		"whattolearn": [
+			" An introduction to cybersecurity",
+			"The 4 phases of hacking",
+			" Dorking - How to use Google for security and research",
+			"  Rootkits, RATs and covering your tracks",
+			"  Virtual Machines - Kali/Parrot OS, windows 7 & metasploitable 2",
+			" Wifi hacking, Debugging and Basics of Assembly Language",
+			" The complete DNS guide, manipulating your DNS"
+		],
+		"course": [
+			{
+				"name": "Introduction : Internet and virtualisation",
+				"content": [
+					" How Hacking works, and the need for Security",
+					"Introduction to Google Dorking for Security Researchers",
+					"Introduction to social engineering, phishing, vishing and related terminologies",
+					"Virtualisation, setting up a Kali/Parrot OS, windows 7 & metasploitable 2 virtual machine"
+				]
+			},
+			{
+				"name": "Anonymity and Privacy",
+				"content": [
+					"Setup of Proxychains on Kali/Parrot OS",
+					"Setup of Anonsurf and VPN on Kali",
+					" The complete DNS guide, manipulating your DNS",
+					"Understanding the OSI model"
+				]
+			},
+			{
+				"name": "Network fundamentals and phases of hacking",
+				"content": [
+					"Physical, Logical Addresses, CP/UDP protocol, TCP 3-way handshake",
+					"The first phase of Hacking : Reconnaissance",
+					"The second phase : Scanning & Enumeration",
+					"The third phase : Gaining access of the machine"
+				]
+			},
+			{
+				"name": "Hacker toolkil essentials",
+				"content": [
+					"The fourth phase : Maintaining access, post exploitation",
+					"Rootkits, RATs and covering your tracks",
+					" Wifi hacking, Debugging and Basics of Assembly Language",
+					"Buffer Overflow Exploit",
+					" Careers in Ethical Hacking and Network Security"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "PRANSHU RANKAKOTI",
+				"image": "pranshu.jpg",
+				"content": "Greetings! I am Pranshu Ranakoti, an undergrad student, currently pursuing my B.Tech (CSE) from GD Goenka University. I am an infosec enthusiast, fluent in BASH, OSINT, Recon and Scanning. I am a learner, a thinker and a visionary (that’s what I believe). My motto: To work for the greater good and make this world a better place to live in! Do you have a problem? Does it needs quick and efficient solution? Well you are at the right place!"
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Shobhit, Ethical Hacking Workshop",
+				"image": "hack_shobhit.jpg",
+				"content": "To catch a thief, think like one. To thwart a hacker, become one. The MyCaptain workshop on ethical hacking introduced the intricacies of computer networks and even how to exploit them. It shed light on the various measures that are taken against the black-hats or the bad hackers. Many links were provided in each lesson for further reading. Best of all, it even introduced us to a community that has computers integrated into their lifestyles.  Also, you can search anything on Google, even passwords."
+			},
+			{
+				"name": "Srinath, Ethical Hacking Workshop",
+				"image": "hack_Srinath.jpg",
+				"content": "The workshop on Ethical Hacking was awesome. I was a bit nervous in the beginning, but later the mentor guided well. The discussion days helped in clarification of my doubts. The Tasks to be performed were like making the hack realistic and getting practical. I liked being a part of workshop."
+			}
+		]
+	},
+	"cryptocurrencyandblockchain": {
+		"name": "CRYPTOCURRENCY AND BLOCKCHAIN TECHNOLOGY",
+		"category": "Technology",
+		"content": "In this month long Online Workshop, you will learn what Cryptocurrency exactly is, how it works, what coins to invest in, and how. You will also explore Investment strategies and possible Careers in Cryptocurrency and Blockchain Technology",
+		"price": 2000,
+		"whattolearn": [
+			"  The history of money",
+			"Exploring Bitcoin, Ethereum and other cryptocurrencies",
+			" Understanding Mining and Staking",
+			"   A look into Blockchain tech",
+			" The advantages of using cryptocurrencies",
+			" Investment strategies"
+		],
+		"course": [
+			{
+				"name": "Money 2.0",
+				"content": [
+					"  Brief history of money",
+					"Our Current financial system and Pros & Cons of Cryptocurrency",
+					"What exactly is Cryptocurrency?",
+					"What is the Technology behind Cryptocurrency?"
+				]
+			},
+			{
+				"name": "Blockchain Technology",
+				"content": [
+					"Block Chain and Decentralisation",
+					"Cryptocurrency Examples and their differences (Bitcoin, Ethereum, Ripple)",
+					" Mining and Staking",
+					"How to buy, sell, store and transfer cryptocurrencies"
+				]
+			},
+			{
+				"name": "The Cryptocurrency Ecosystem",
+				"content": [
+					"Financial Theory",
+					"Cryptocurrency examples and their differences (Monero, IOTA, Stellar)",
+					"How to research Coins?"
+				]
+			},
+			{
+				"name": "Investing in Cryptocurrencies",
+				"content": [
+					"Investment Strategies",
+					"What to expect in the future?",
+					" Possible Career options in Cryptocurrency"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "Sahil Shah",
+				"image": "Shail.jpg",
+				"content": "A student of York St John University and ISME Sahil is a tech enthusiast and has over 18 months of all round experience in the cryptocurrency and start-up space as the President of Entrepreneurship at ISME.He is the co-founder of CryptoUnified- a start-up geared towards teaching Indians about cryptocurrency and blockchain technology. Sahil has been invited to deliver guest lectures at reputed educational institutions in this field."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Shobhit, Ethical Hacking Workshop",
+				"image": "hack_shobhit.jpg",
+				"content": "To catch a thief, think like one. To thwart a hacker, become one. The MyCaptain workshop on ethical hacking introduced the intricacies of computer networks and even how to exploit them. It shed light on the various measures that are taken against the black-hats or the bad hackers. Many links were provided in each lesson for further reading. Best of all, it even introduced us to a community that has computers integrated into their lifestyles.  Also, you can search anything on Google, even passwords."
+			},
+			{
+				"name": "Srinath, Ethical Hacking Workshop",
+				"image": "hack_Srinath.jpg",
+				"content": "The workshop on Ethical Hacking was awesome. I was a bit nervous in the beginning, but later the mentor guided well. The discussion days helped in clarification of my doubts. The Tasks to be performed were like making the hack realistic and getting practical. I liked being a part of workshop."
+			}
+		]
+	},
+	"internetofthings": {
+		"name": "INTERNET OF THINGS",
+		"category": "Technology",
+		"content": "In this 30 day workshop you will learn about various sensors and micro-controllers and how to build IoT Devices to solve problems in the real world",
+		"price": 3000,
+		"whattolearn": [
+			"  Introduction to IOT and Embedded systems",
+			" How to use Fritzing.io",
+			" How to select Sensors, Actuators for your project",
+			"   Converting the concepts to PCBs",
+			"  Working with Micro-controllers and open source softwares",
+			" Finding and writing code for your project",
+			"Developing algorithms for your project"
+		],
+		"course": [
+			{
+				"name": "Getting started with IOT and Embedded Systems",
+				"content": [
+					"Getting started with IoT and Embedded Systems",
+					"What is IOT and Embedded Systems? Different uses of IOT and ES",
+					"What is Assistive Technology? Solving problems for the differently abled",
+					"Where to look for problems and finding Innovative solutions"
+				]
+			},
+			{
+				"name": "Creating your block Diagram",
+				"content": [
+					"Introductions to sensors and actuators",
+					"CMicro-controllers and other open source softwares",
+					" Identify various sensors and actuators devices needed for your solution",
+					"How to draw a block-diagram and analysing it"
+				]
+			},
+			{
+				"name": "Algorithms and Softwares",
+				"content": [
+					"How to think and how to make your concept work",
+					"Algorithms : How to make your concept an algorithm",
+					"How to use Fritzing.io / TinkerCAD to make Circuit diagrams, convert into circuits",
+					"More about Fritzing / TinkerCAD and how to convert into a PCB"
+				]
+			},
+			{
+				"name": "Building the Prototype",
+				"content": [
+					"Analysing your Circuit Diagrams on TinkerCAD/Fritzing.io",
+					"Introduction to Open Source Programming softwares",
+					"Writing code for a project",
+					"Where to find Code for your prototypes - messaging the project creators",
+					"References and ProTips (list of makerspaces)"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "Robin Thomas",
+				"image": "robin.jpg",
+				"content": "I am an Electronics and Electrical graduate . During the course of my studies, I have done a coveted internship at the Stemsel, Australia and was selected to present my project at the IEEE IAS International Conference twice, in 2016 and 2017. Now being the founder of Unik Innovation, Kochi, I am working on building an exoskeleton for paraplegia patients."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Archita Dev, Android App Development Workshop",
+				"image": "andr_archita.jpeg",
+				"content": "I joined the MyCaptain Android App Development Workshop some months ago. The Content provided is really good and the interactions with the Captain were very beneficial. Overall My Captain is very helpful as there as a variety of Workshops to choose from."
+			},
+			{
+				"name": "Pritesh Lunkad, Android App  Development Workshop",
+				"image": "andr_pritesh.jpg",
+				"content": "The workshop was well organized and was planned out meticulously. With well-equipped online presentations. The concepts were presented vividly with adequate illustrations. The curious self was implored by the discussion session. Our Captain Shiven Singh was fully dedicated in helping us understand the concepts with ease. Kudos to the MyCaptain team !"
+			}
+		]
+	},
+	"advertisingandmarketing": {
+		"name": "ADVERTISING AND MARKETING",
+		"category": "Business",
+		"content": "Learn how to create a successful Advertisement campaign for both a Startup and a Corporate and find out what role you can play in building a brand.",
+		"price": 1000,
+		"whattolearn": [
+			"Introduction to Functions and kinds of Marketing",
+			"Marketing strategy, marketing mix and Social Marketing",
+			"Decoding consumer behaviour",
+
+			"Understanding Brand identity and Personality",
+			"How an advertising agency works?",
+			"Developing copywriting skills",
+			"Creating an advertising campaign",
+			"Integrated Marketing Communication - Social Media Marketing"
+		],
+		"course": [
+			{
+				"name": "Starting with the Basics",
+				"content": [
+					"Who is this for? Introductions and Functions of Marketing.",
+					"Types of advertising and Social and economic aspects of advertising",
+					"Marketing strategy, marketing mix and Social marketing"
+				]
+			},
+			{
+				"name": "Exploring Advertising",
+				"content": [
+					"What is Consumer behaviour?",
+					" Consumer behavior – Aspects, Ad and Culture",
+					" Brand identity and personality."
+				]
+			},
+			{
+				"name": "Marketing and Branding",
+				"content": [
+					"Brand positioning and brand equity.",
+					"Structure of an ad agency and Skill requirements to get into one",
+					"What is the Copywriter role? Developing An advt plan!"
+				]
+			},
+			{
+				"name": "How do Agencies Work?",
+				"content": [
+					"Phases of campaign creation.",
+					"Integrated marketing communication - Social Media marketing.",
+					"Discussing successful advertising."
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "Bhavana Rajagopalan",
+				"image": "bhavana.jpg",
+				"content": "I am Bhavana Rajagopalan. To give you a short introduction, I have studied Mass Media with a specialisation in advertising. I have interned at the coveted ad agency - Ogilvy & Mather, have worked at Metaphors Advertising Inc. in Nagpur and currently am an Account Manager at The Minimalist. I have handled more than 25 accounts for marketing communication until now and am joining Indian School of Business, Hyderabad in April 2019 for my MBA. I look forward to this workshop and am excited to be not just a mentor but also a friend you can turn to."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Himanshi Yadav , Advertising & Marketing Workshop",
+				"image": "advt_himanshi.jpg",
+				"content": "I did my workshop on Advertising and marketing, it’s a great start to pursue something of your interest. The sessions were knowledgeable, interesting and inclusive. Special mention to Bhavana ( our captain) who is pretty helpful and goes out of her way to clear your doubts."
+			},
+			{
+				"name": "Jigesh , Advertising & Marketing Workshop",
+				"image": "advt_jigesh.jpg",
+				"content": "Mycaptain workshop was very useful as it helped me to enhance my knowledge on marketing and different advertising techniques. My mentor Bhavana madam, helped me a lot by clarifying all the doubts and always motivated me to look deep into the marketing world. It was a great experience altogether."
+			}
+		]
+	},
+	"financeandstockmarkets": {
+		"name": "FINANCE AND STOCK MARKETS",
+		"category": "Business",
+		"content": "Your basic guide to understanding how the complicated world of Finance and Stock markets works. You will also start trading with real time stocks in a simulation in this 30 day Online Workshop.",
+		"price": 1000,
+		"whattolearn": [
+			"  Evolution of money and the Stock Market",
+
+			"Understanding financial statements and Analysis",
+
+			"Introduction to Financial Ratios and Analysis",
+
+			"Case Study : Decoding the 2008 Stock market crash (The Subprime Crisis)",
+			"The Why, What and How ofmInvestments",
+
+			"Analysing Risks and Returns",
+
+			"Practice investing with a Stock Market Simulator",
+
+			"How to become a Stockbroker"
+		],
+		"course": [
+			{
+				"name": "Birth and Evolution of Money",
+				"content": [
+					"Evolution of money: From Barter to Cryptocurrencies",
+					"Evolution of stock markets",
+					"Sensex calculation and stock markets"
+				]
+			},
+			{
+				"name": "How to analyse companies?",
+				"content": [
+					"Financial Statements & Ratios",
+					"What is an Investment Life Cycle",
+					"The Subprime Crisis and important Stock Market terms"
+				]
+			},
+			{
+				"name": "How to choose stocks?",
+				"content": [
+					"How to Pick up stocks",
+					"Paper Trading: What, why, and how?",
+					"Calculating Returns and Mitigating risks"
+				]
+			},
+			{
+				"name": "Going out into the real world",
+				"content": [
+					"Devising your own Strategies",
+					"Career in Finance",
+					"Career in Stock Markets"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "PRAHALADH HARIHARAN",
+				"image": "prahalad.jpg",
+				"content": "I am an MSc. in Finance, and have interned with Ministry of Finance, India. I have also been on the National Support Team - Finance, AIESEC in South Africa, apart from being the VP of expansions for AIESEC in Chennai. So far I have mentored over 175 students in Finance and Stock Markets. Join me in my passion!"
+			},
+			{
+				"name": "ANUJ AGARWAL",
+				"image": "AnujAgarwal.jpg",
+				"content": "I am a CCAP associate at CRISIL Limited. I was a National Semi Finalist at Tata Mutual Fund's Simply Finance Quiz 2014 and winner of Persistent acumen - Business Quiz. I was also a Regional runner up at the Tata Mutual Fund Simply Finance Quiz. I have worked on several Financial Analysis projects including improvement of Financial Management System of Indian Steel Industry. I have also worked on Measurement and Improvement of Service Quality of Banks using 'SERVQUAL'. I hope to share some good knowledge through this workshop!"
+			},
+			{
+				"name": "CHHAVI",
+				"image": "Chhavi.jpg",
+				"content": "I am an M.Sc. student of Finance, G.I.P.E. I have a bachelor degree in Economics and have worked with the Axis bank as an intern in the foreign exchange department. I regularly invest in stock market and aspire to become an Indian Economics Services Officer and am constantly working towards my goal."
+			},
+
+			{
+				"name": "DIPESH BAID",
+				"image": "dipesh.png",
+				"content": "I am an engineer turned financial analyst. I have completed two levels of CFA and have made several research reports on stocks & sectors for various investment banks, specialising in the Real Estate, Financial Services and Automotive sectors. I also have experience in M&A, with a focus on valuation. I am currently the CFO of a manufacturing company with over INR 90 crores in turnover. Also, I am currently writing three public policy papers - one on how firms use the Bootstrap Effect to artificially inflate their EPS, second on why Indian public policy needs to shift away from agriculture and become a hub for mass manufacturing to reduce unemployment, and third on the applicability of Individual Transferable Quotas and costs of quota leasing on Indian fisheries. Initially, it was hard for me to make the shift from engineering to finance. Through the mentorship program, I hope to make that transition easier for many students!"
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Aaditya, Finance and Stock Markets Workshop",
+				"image": "fin_aaditya.jpg",
+				"content": "MyCaptain is a very nice initiative for Online workshops. I started my workshop in Stock Market and Finance and found it a great help in gaining knowledge about Stock markets especially. Our Captain was brilliant! She explained every topic thoroughly with proper examples. To conclude i am very happy to be a part of Mycaptain community and I am looking forward to new workshops in it."
+			},
+			{
+				"name": "Keshav, Finance and Stock Markets Workshop",
+				"image": "fin_keshav.jpeg",
+				"content": "It was a great learning experience. I had no knowledge about the World of Stock markets, but after attending the workshop, I was able to understand the stock market jargons and also earned a profit of over 30000 at NSE Paathshala. I loved the concept of My Captain and would recommend to everyone who is passionate about finance and stock market."
+			}
+		]
+	},
+	"entrepreneurship": {
+		"name": "ENTREPRENEURSHIP",
+		"category": "Business",
+		"content": "Discover the secret sauces of startups and train yourself to be a student Entrepreneur with this 30 day program. Get mentored by young successful Entrepreneurs.",
+		"price": 1000,
+		"whattolearn": [
+			"   Discover your personality and understand your role in your startup!",
+			"Understand why Startups Exist",
+			"Brainstorm on an idea for your startup",
+			"Apply the Lean Canvas Model to your Startup",
+			"Come up with your Business Model",
+			"Build the first version of your product or service",
+			"Start Marketing your Startup",
+			"How and When to raise Funding from Investors",
+			"Opportunities in Entrepreneurship"
+		],
+		"course": [
+			{
+				"name": "The Big Idea",
+				"content": [
+					"An introduction to the startup world.",
+					"These startups have changed our lives",
+					"What makes steve jobs’ ideas so great - The Golden circle."
+				]
+			},
+			{
+				"name": "Coming up with a solution",
+				"content": [
+					"The secret to building a successful startup",
+					"How to setup your startup",
+					"The sexy part of startups - Marketing"
+				]
+			},
+			{
+				"name": "The Big Picture",
+				"content": [
+					"Explain your startup in One page!",
+					"Reducing the risks in running your startup",
+					"The secret to building successful products",
+					"Getting funded : What, when and how?"
+				]
+			},
+			{
+				"name": "Raising funds as Student Entrepreneurs",
+				"content": [
+					"For Entrepreneurs, Life’s a pitch!",
+					"The boring but necessary part of Startups : Registering your Company",
+					"The World of the future."
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "SAMEER RAMESH",
+				"image": "Sameer.jpg",
+				"content": "I'm the Co-founder and CPO at The Climber, and am passionate about new products and innovations. I have a keen interest in technology platforms and network effects. I'm also a TEDx speaker and an HPAIR delegate."
+			},
+			{
+				"name": "MOHAMMED ZEESHAN",
+				"image": "zeeshan.jpg",
+				"content": "I'm a Social Entrepreneur and Co-Founder and CEO of The Climber. My journey began almost half a decade ago, when I first decided to take the startup plunge. I am a GSEP scholar, 4 times Tedx Speaker and I consult NGOs on sustainability. So far I have mentored over 300 students in Entrepreneurship, some of whom have gone ahead to win B-plan  competitions, while others have started up and have well working businesses right now!"
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Chaitra Chittu , Entrepreneurship Workshop",
+				"image": "sabm_chaitra.jpg",
+				"content": "I took the MyCaptain Entrepreneurship Workshop in late 2017. It was quite an amazing experience to be guided by my Captain, Sameer Ramesh. I got to learn about how real businesses and startups are actually run and the best part - I got to interact with like minded people. Since then I have even started my own Food Company and Captain Sameer still guides me! In short it was an amazing experience and made me do what I love and follow my passion in Entrepreneurship!"
+			},
+			{
+				"name": "Deepanshu Bhanot , Entrepreneurship Workshop",
+				"image": "sabm_deepanshu.jpeg",
+				"content": "My mentor was Mohammed Zeeshan. He was amazing in his approach towards making all the mentees understand the basics of Entrepreneurship and incited us to ask questions in a manner that helped us clear all our doubts. I started up my Graphic design firm after the Workshop!"
+			}
+		]
+	},
+	"digitalmarketing": {
+		"name": "DIGITAL MARKETING",
+		"category": "Business",
+		"content": "In this 30 day Online Workshop, learn to use all the Digital Marketing platforms and how to make money Online!",
+		"price": 2800,
+		"whattolearn": [
+			"   Wireframe and run your first Facebook and Instagram Ads",
+			"Optimise your Facebook and Instagram Ad",
+			"How to run an Email Drip Campaign",
+
+			"Writing Brand introduction emails",
+			"An introduction to Google Adwords and Keyword Search Ads",
+			"A practical approach to Keyword Search Ads",
+
+			"Scriptwriting for your YouTube Ad",
+
+			"Importance of Content Writing and SEO",
+			"Career Prospects and Opportunities in Digital Marketing"
+		],
+		"course": [
+			{
+				"name": "Getting started with Digital Marketing",
+				"content": [
+					"Introduction to Online Marketing",
+					"How to build an Audience on your Facebook & Instagram pages?",
+					"Setting up your first Ad Campaign on Facebook & Instagram."
+				]
+			},
+			{
+				"name": "Marketing Strategies and Advertising : Getting it right",
+				"content": [
+					"How to get the best results out of your Ad Campaign?",
+					"Oldest trick in the book : Email Marketing.",
+					"How to set up an effective email drip campaign?"
+				]
+			},
+			{
+				"name": "TLearning basic analytics to optimise your ads",
+				"content": [
+					"Introduction to different types of Google Adwords",
+					"How to use the Adwords Tool?",
+					"A look into Marketing and Sales for StartUps."
+				]
+			},
+			{
+				"name": "SEO and Youtube Marketing",
+				"content": [
+					"Planning and researching your first Keyword search Campaign",
+					"Should you advertise on youtube?",
+					"Content Marketing 101 - Setting up a wordpress blog",
+					"An introduction to Search Engine Optimisation"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "RUHAN MADNI NAQASH",
+				"image": "ruhan_edited.jpg",
+				"content": "I'm a first generation Entrepreneur, and the Co Founder and CMO of The Climber. I have been mentoring some student run startups at an individual level for 1.5 years now and help them out in terms of Business Models, Sales Channels, Customer acquisition, Marketing etc. I have been leading the Marketing team of The Climber for the past 2 years now."
+			}
+		],
+
+		"feed": [
+			{
+				"name": "Himanshi Yadav , Advertising & Marketing Workshop",
+				"image": "advt_himanshi.jpg",
+				"content": "I did my workshop on Advertising and marketing, it’s a great start to pursue something of your interest. The sessions were knowledgeable, interesting and inclusive. Special mention to Bhavana ( our captain) who is pretty helpful and goes out of her way to clear your doubts."
+			},
+			{
+				"name": "Jigesh , Advertising & Marketing Workshop",
+				"image": "advt_jigesh.jpg",
+				"content": "Mycaptain workshop was very useful as it helped me to enhance my knowledge on marketing and different advertising techniques. My mentor Bhavana madam, helped me a lot by clarifying all the doubts and always motivated me to look deep into the marketing world. It was a great experience altogether."
+			}
+		]
+	},
+	"novelwriting": {
+		"name": "NOVEL WRITING",
+			"category": "Creatives & Humanities",
+		"content": "Get inspired to create your own Characters and Plot, and learn about getting Published in this Comprehensive 30 day Workshop, all under the guidance of a young author!",
+		"price": 1000,
+		"whattolearn": [
+			"Understanding types and genres",
+			"How to bring perspective into your Novel?",
+			"Secrets behind a great novel",
+			"How to write realistic dialogues?",
+			"How to perfect your plot, setting and theme",
+			"How to get published?",
+			"Brilliance of character building"
+		],
+		"course": [
+			{
+				"name": "Getting started with Novel Writing",
+				"content": [
+					"Do you know why you write?",
+					"Let’s breakdown types and genres",
+					"Advice for first time authors",
+					"The secrets behind a great novel"
+				]
+			},
+			{
+				"name": "Setting, Storyline and Theme",
+				"content": [
+					"How to build an Engaging plot?",
+					"What makes a perfect setting?",
+					"How to build a powerful theme for your story?",
+					"How can characters come to life?"
+				]
+			},
+			{
+				"name": "A gist of your Novel",
+				"content": [
+					"How to bring perspective into your Novel?",
+					"How to write realistic dialogues?",
+					"Tips to help you finish that first draft",
+					"Things to do to reach your final draft",
+					"How to make your writing interesting?"
+				]
+			},
+			{
+				"name": "Editing and Publishing",
+				"content": [
+					"Should you self publish your first novel?",
+					"Life as a young author",
+					"The secret to getting onto a best sellers list"
+				]
+			}
+		],
+		"captains": [
+			{
+				"name": "KAVYA SHARMA",
+				"content": "Kavya Sharma, a Masters in Creative Writing from the University Of Nottingham, England is a published author of the book “To Naddiyya” and a poetry collection- “The Carmine Memories: An Insane Woman’s Poetry” published by Partridge India.Her poetry has also been featured in the anthology ‘Ninety Seven Poems’ by Terribly Tiny Tales (published by Penguin) and Map Called Home by Kitaab.Org, Singapore.  Her work has been published on various platforms including The Bangalore Review, Thought Catalog, Terribly Tiny Tales, Out of Print Magazine, Indus Woman Writing, Spark Magazine, Youth Ki Awaaz, etc. Currently, Kavya works as a Commissioning Editor at Half Baked Beans Publishing House, Delhi and also runs her own literary magazine by the name Verse of Silence which comes out every month both digitally and in print.",
+				"image": "kavya.jpg"
+			},
+			{
+				"name": "MEGHA RAO",
+				"image": "megha.jpg",
+				"content": "Megha is a poet and an artist, represented by Red Ink Literary Agency, New Delhi. Two of her fiction titles have been published by Penguin Random House in 2015 and 2016, and her poetry has been featured in a multitude of Online magazines like The Open Road Review and New Asian Writing. She is also the compiler and editor of the anthology of poems by Half Baked Beans, a growing literary platform for aspiring writers. She has done her masters in English literature from the University of Nottingham, England, and has also interned with HarperCollins. Currently Megha works as the Content lead for the Terribly Tiny Tales App."
+			},
+			{
+				"name": "DAMINI KANE",
+				"image": "damini.jpg",
+				"content": "Damini Kane is the author of The Sunlight Plane, which is also her debut novel. She also writes short fiction, and was longlisted for the DNA Out of Print Short Fiction contest in 2016, for her piece, Aleppo. She is also one of the selected winners of Campus Diaries, 25 under 25, under the Writing category. Her favourite genres to write are fantasy and adventure and is known for her sharp focus on a characters’ emotional development. Damini loves to mentor young writers and instills an unparalleled passion in them."
+			}
+		],
+	"feed": [
+			{
+				"name": "Labeeb Ajmal , Creative Writing Workshop",
+				"image": "cwr_labeeb.jpg",
+				"content": "The Creative Writing Workshop conducted by MyCaptain was a great one to hone my writing skills. It gave me insight on how to structure my poetry and make it more presentable. The Captain was amazing and a fun relationship was share on and off the workshop. This is a great way to learn more about one's passion with tutors/mentors who strike a chord with those who join the workshops."
+			},
+			{
+				"name": "Madhura Sonegaonkar , Creative Writing Workshop",
+				"image": "cwr_madhura.jpg",
+				"content": "My experience with my captain was extraordinary. The mentor was very helpful and interactive. My writing improved very much due to the workshop and I went from last page scribbling to being a published poet for platforms like ttt (terribly tiny tales) and other platforms Special shout out to my mentor who still helps me every time I call him."
+			}
+		]
+	}
+}

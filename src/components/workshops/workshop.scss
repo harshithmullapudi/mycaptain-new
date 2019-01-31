@@ -1,0 +1,66 @@
+.workshop
+{
+	margin-top: 50px;
+}
+.workshop h1
+{
+	color: #F27A5E;
+	    letter-spacing: 2px;
+    font-family: 'Montserrat';
+	font-weight: 800;
+	text-align: center;
+ 	font-size: 40px;
+}
+.active.nav-link
+{
+	 font-family: 'Montserrat';
+	font-weight: 800;
+}
+.nav-link
+{
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: 14px;
+}
+.nav-tabs
+{
+	margin-top: 50px;
+	    padding-left: 5rem;
+    padding-right: 5rem;
+    border-bottom: 3px solid #e4e4e4;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active,.nav-link:hover
+{
+	border: none;
+	border-bottom: 3px solid #F58D5B;
+	cursor: pointer;
+}
+
+.tab-content
+{
+	margin-top: 50px;
+}
+
+
+.card-deck
+{
+	margin-bottom: 30px;
+}
+.workshopCard
+{
+	cursor: pointer;
+}
+.workshopCard > img
+{
+	border-bottom: 1px solid rgba(0,0,0,.125)!important;
+}
+.workshopCard > .card-body
+{
+	padding: 1rem;
+	text-align: center;
+}
+.workshopCard > .card-body > .card-title
+{
+	margin-bottom: 0;
+	font-weight: bolder;
+}

@@ -1,0 +1,3 @@
+var workshopNames = ['Journalism & Media Studies', 'Creative Writing', 'Psychology', 'Graphic Design', 'Novel Writing', 'Photography', 'Model United Nations', 'Spoken Word Poetry', 'Blogging & Content Writing', 'Short Film Making', 'UI & UX Design', 'Android App Development', 'Artificial Intelligence', 'Web Development', 'Full Stack Development', 'Race Car Tech', "Programmers Pack", 'Ethical Hacking', 'Cryptocurrency and Blockchain', 'Internet of Things', 'Advertising and Marketing', 'Finance and Stock Markets', 'Entrepreneurship', 'Digital Marketing'];
+
+export default workshopNames;

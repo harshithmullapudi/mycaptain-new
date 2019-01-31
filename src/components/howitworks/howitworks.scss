@@ -1,0 +1,51 @@
+
+
+.howitworks
+{
+	margin-top: 50px!important;
+	text-align: left;
+}
+.howitworks h1
+{
+	color: #F27A5E;
+	    letter-spacing: 1px;
+	font-weight: 900;
+	    font-family: 'Montserrat';
+	text-align: center;
+ 	font-size: 40px;
+}
+.howitworks .row
+{
+	margin-top: 50px;
+	text-align: left;
+}
+.workImages
+{
+	height: 150px;
+}
+.workText
+{
+	margin-top: 10px;
+	text-align: left;
+	font-size: 14px;
+	font-weight: bolder;
+	text-align: left;
+}
+.workPara
+{
+	text-align: left;
+	font-size: 14px;
+
+	color: black;
+	font-weight: normal;
+}
+@media only screen and (max-width: 992px) {
+	.workText
+	{
+		text-align: center;
+	}
+	.workPara
+	{
+		text-align: center;
+	}
+	}

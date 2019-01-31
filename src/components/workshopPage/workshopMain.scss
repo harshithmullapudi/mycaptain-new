@@ -1,0 +1,46 @@
+.hr.noTop {
+	margin-top: 10px!important;
+}
+
+
+.breadcrumb-item > a {
+	color: #f58d5b;
+	text-decoration: none;
+	cursor: pointer;
+}
+.breadcrumb {
+	background-color: transparent;
+}
+.content {
+	margin-top: 50px !important;
+}
+.row {
+	margin-left: 0;
+}
+
+
+p {
+	color: white;
+	font-weight: bolder;
+}
+.joinnow {
+	padding: 10px;
+	background-color: rgba(116, 59, 224, 1);
+	color: white;
+	border-radius: 20px;
+	font-size: 14px;
+	margin-left: 20px;
+	cursor: pointer;
+}
+.joinnow:hover {
+	background-color: rgba(116, 59, 224, 1);
+	color: white;
+	cursor: pointer;
+}
+
+.contentCourse {
+	margin-top: 40px !important;
+	font-size: 22px !important;
+	color: black !important;
+	font-weight: 900 !important;
+}
